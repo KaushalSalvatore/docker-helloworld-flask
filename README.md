@@ -52,7 +52,7 @@ Requirements files serve as a list of items to be installed by pip
 2. docker image name should be with your docker user name (kaushalpandey/flask-helloworld)
 2.1 rename docker image first method      
 ```bash
-  docker rm -f flask-helloworld
+  docker image rm -f flask-helloworld
   (remove old docker image)
 
   docker build -t kaushalpandey/flask-helloworld . 
