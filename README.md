@@ -67,11 +67,4 @@ Requirements files serve as a list of items to be installed by pip
 ```bash
 docker push kaushalpandey/flask-helloworld:latest
 ```
-```bash
-  
-```
-
-```bash
- 
-```
 
